@@ -1,0 +1,13 @@
+Iteration MSE MAPE
+Learning :
+0 0.04 2
+Validating :
+0 0 0
+Under & Over
+0 0
+Learning :
+1 0 0
+Validating :
+1 0 0
+Under & Over
+0 0

@@ -1,0 +1,673 @@
+Iteration MSE MAPE
+Learning :
+0 0.101605 17.5973
+Validating :
+0 0.012963 7.14214
+Under & Over
+15 15
+Learning :
+1 0.0312132 8.61926
+Validating :
+1 0.00554813 4.40334
+Under & Over
+15 15
+Learning :
+2 0.0229175 6.45637
+Validating :
+2 0.00306792 3.1538
+Under & Over
+15 15
+Learning :
+3 0.0174622 5.27974
+Validating :
+3 0.00192374 2.43057
+Under & Over
+15 15
+Learning :
+4 0.0135647 4.49642
+Validating :
+4 0.00130345 1.95935
+Under & Over
+15 15
+Learning :
+5 0.0107732 3.92544
+Validating :
+5 0.000933303 1.63019
+Under & Over
+15 15
+Learning :
+6 0.0087476 3.48792
+Validating :
+6 0.000697137 1.389
+Under & Over
+15 14
+Learning :
+7 0.00724644 3.14129
+Validating :
+7 0.000538475 1.20571
+Under & Over
+15 13
+Learning :
+8 0.00610798 2.85965
+Validating :
+8 0.000427353 1.06234
+Under & Over
+15 11
+Learning :
+9 0.00522542 2.62616
+Validating :
+9 0.00034681 0.947501
+Under & Over
+15 10
+Learning :
+10 0.00452753 2.42935
+Validating :
+10 0.00028673 0.853677
+Under & Over
+15 9
+Learning :
+11 0.00396589 2.26112
+Validating :
+11 0.000240811 0.775735
+Under & Over
+15 8
+Learning :
+12 0.00350685 2.11559
+Validating :
+12 0.000204977 0.710058
+Under & Over
+15 8
+Learning :
+13 0.00312651 1.98842
+Validating :
+13 0.000176506 0.654033
+Under & Over
+15 8
+Learning :
+14 0.00280758 1.87628
+Validating :
+14 0.000153528 0.605728
+Under & Over
+15 8
+Learning :
+15 0.00253728 1.77663
+Validating :
+15 0.000134728 0.563687
+Under & Over
+15 8
+Learning :
+16 0.002306 1.68745
+Validating :
+16 0.000119157 0.526793
+Under & Over
+15 8
+Learning :
+17 0.00210643 1.60716
+Validating :
+17 0.00010612 0.494176
+Under & Over
+15 8
+Learning :
+18 0.00193289 1.53448
+Validating :
+18 9.51001e-05 0.46515
+Under & Over
+15 8
+Learning :
+19 0.00178096 1.46834
+Validating :
+19 8.57028e-05 0.439165
+Under & Over
+15 8
+Learning :
+20 0.00164711 1.4079
+Validating :
+20 7.76263e-05 0.415778
+Under & Over
+15 8
+Learning :
+21 0.0015285 1.35244
+Validating :
+21 7.06352e-05 0.394625
+Under & Over
+15 8
+Learning :
+22 0.00142286 1.30135
+Validating :
+22 6.45442e-05 0.375408
+Under & Over
+15 8
+Learning :
+23 0.00132832 1.25413
+Validating :
+23 5.92056e-05 0.357878
+Under & Over
+15 8
+Learning :
+24 0.00124334 1.21035
+Validating :
+24 5.45009e-05 0.341827
+Under & Over
+15 8
+Learning :
+25 0.00116664 1.16964
+Validating :
+25 5.03338e-05 0.327079
+Under & Over
+15 8
+Learning :
+26 0.00109715 1.13168
+Validating :
+26 4.66256e-05 0.313486
+Under & Over
+15 8
+Learning :
+27 0.00103398 1.09621
+Validating :
+27 4.33116e-05 0.300919
+Under & Over
+15 8
+Learning :
+28 0.00097636 1.06297
+Validating :
+28 4.0338e-05 0.289268
+Under & Over
+15 8
+Learning :
+29 0.000923646 1.03176
+Validating :
+29 3.76597e-05 0.27844
+Under & Over
+15 8
+Learning :
+30 0.000875283 1.00241
+Validating :
+30 3.5239e-05 0.268351
+Under & Over
+15 8
+Learning :
+31 0.000830793 0.974734
+Validating :
+31 3.30439e-05 0.258931
+Under & Over
+15 8
+Learning :
+32 0.000789763 0.948604
+Validating :
+32 3.10474e-05 0.250115
+Under & Over
+15 8
+Learning :
+33 0.000751835 0.923889
+Validating :
+33 2.92262e-05 0.24185
+Under & Over
+15 8
+Learning :
+34 0.000716697 0.900474
+Validating :
+34 2.75604e-05 0.234085
+Under & Over
+15 8
+Learning :
+35 0.000684074 0.87826
+Validating :
+35 2.60328e-05 0.226778
+Under & Over
+15 8
+Learning :
+36 0.000653728 0.857153
+Validating :
+36 2.46287e-05 0.21989
+Under & Over
+15 8
+Learning :
+37 0.000625444 0.837073
+Validating :
+37 2.33349e-05 0.213387
+Under & Over
+15 8
+Learning :
+38 0.000599038 0.817944
+Validating :
+38 2.21404e-05 0.207238
+Under & Over
+15 8
+Learning :
+39 0.000574341 0.799701
+Validating :
+39 2.10352e-05 0.201416
+Under & Over
+15 8
+Learning :
+40 0.000551206 0.782281
+Validating :
+40 2.00106e-05 0.195896
+Under & Over
+15 8
+Learning :
+41 0.000529502 0.765629
+Validating :
+41 1.9059e-05 0.190654
+Under & Over
+15 8
+Learning :
+42 0.000509109 0.749696
+Validating :
+42 1.81737e-05 0.185672
+Under & Over
+15 8
+Learning :
+43 0.000489922 0.734434
+Validating :
+43 1.73485e-05 0.180931
+Under & Over
+15 8
+Learning :
+44 0.000471845 0.719802
+Validating :
+44 1.65783e-05 0.176413
+Under & Over
+15 8
+Learning :
+45 0.000454792 0.705761
+Validating :
+45 1.58582e-05 0.172105
+Under & Over
+15 8
+Learning :
+46 0.000438686 0.692275
+Validating :
+46 1.5184e-05 0.167991
+Under & Over
+15 8
+Learning :
+47 0.000423456 0.679311
+Validating :
+47 1.45518e-05 0.16406
+Under & Over
+15 8
+Learning :
+48 0.000409038 0.66684
+Validating :
+48 1.39583e-05 0.160299
+Under & Over
+15 8
+Learning :
+49 0.000395375 0.654833
+Validating :
+49 1.34003e-05 0.156699
+Under & Over
+15 8
+Learning :
+50 0.000382413 0.643264
+Validating :
+50 1.28751e-05 0.153248
+Under & Over
+15 8
+Learning :
+51 0.000370104 0.632111
+Validating :
+51 1.23802e-05 0.149939
+Under & Over
+15 8
+Learning :
+52 0.000358404 0.621349
+Validating :
+52 1.19132e-05 0.146763
+Under & Over
+15 8
+Learning :
+53 0.000347272 0.61096
+Validating :
+53 1.14722e-05 0.143711
+Under & Over
+15 8
+Learning :
+54 0.000336672 0.600922
+Validating :
+54 1.10552e-05 0.140778
+Under & Over
+15 8
+Learning :
+55 0.00032657 0.59122
+Validating :
+55 1.06605e-05 0.137957
+Under & Over
+15 8
+Learning :
+56 0.000316933 0.581836
+Validating :
+56 1.02866e-05 0.13524
+Under & Over
+15 7
+Learning :
+57 0.000307734 0.572753
+Validating :
+57 9.93197e-06 0.132624
+Under & Over
+15 7
+Learning :
+58 0.000298945 0.563959
+Validating :
+58 9.59539e-06 0.130102
+Under & Over
+15 7
+Learning :
+59 0.000290542 0.555439
+Validating :
+59 9.27562e-06 0.127669
+Under & Over
+15 7
+Learning :
+60 0.000282503 0.54718
+Validating :
+60 8.97156e-06 0.125321
+Under & Over
+15 7
+Learning :
+61 0.000274806 0.539171
+Validating :
+61 8.68221e-06 0.123054
+Under & Over
+15 7
+Learning :
+62 0.000267431 0.531399
+Validating :
+62 8.40664e-06 0.120864
+Under & Over
+15 7
+Learning :
+63 0.00026036 0.523855
+Validating :
+63 8.14397e-06 0.118746
+Under & Over
+15 7
+Learning :
+64 0.000253578 0.516529
+Validating :
+64 7.89342e-06 0.116698
+Under & Over
+15 7
+Learning :
+65 0.000247067 0.509411
+Validating :
+65 7.65426e-06 0.114716
+Under & Over
+15 7
+Learning :
+66 0.000240813 0.502492
+Validating :
+66 7.4258e-06 0.112797
+Under & Over
+15 7
+Learning :
+67 0.000234803 0.495763
+Validating :
+67 7.20742e-06 0.110938
+Under & Over
+15 7
+Learning :
+68 0.000229023 0.489218
+Validating :
+68 6.99853e-06 0.109136
+Under & Over
+15 7
+Learning :
+69 0.000223462 0.482849
+Validating :
+69 6.79859e-06 0.107389
+Under & Over
+15 7
+Learning :
+70 0.000218109 0.476647
+Validating :
+70 6.6071e-06 0.105695
+Under & Over
+15 7
+Learning :
+71 0.000212954 0.470608
+Validating :
+71 6.42359e-06 0.10405
+Under & Over
+15 7
+Learning :
+72 0.000207986 0.464724
+Validating :
+72 6.24761e-06 0.102454
+Under & Over
+15 7
+Learning :
+73 0.000203196 0.45899
+Validating :
+73 6.07877e-06 0.100903
+Under & Over
+15 7
+Learning :
+74 0.000198576 0.453399
+Validating :
+74 5.91669e-06 0.0993969
+Under & Over
+15 7
+Learning :
+75 0.000194117 0.447947
+Validating :
+75 5.761e-06 0.0979326
+Under & Over
+15 7
+Learning :
+76 0.000189813 0.442628
+Validating :
+76 5.61138e-06 0.0965089
+Under & Over
+15 7
+Learning :
+77 0.000185655 0.437437
+Validating :
+77 5.46751e-06 0.095124
+Under & Over
+15 7
+Learning :
+78 0.000181638 0.43237
+Validating :
+78 5.32911e-06 0.0937765
+Under & Over
+15 7
+Learning :
+79 0.000177754 0.427422
+Validating :
+79 5.1959e-06 0.0924648
+Under & Over
+15 7
+Learning :
+80 0.000173998 0.422589
+Validating :
+80 5.06762e-06 0.0911877
+Under & Over
+15 7
+Learning :
+81 0.000170364 0.417868
+Validating :
+81 4.94404e-06 0.0899437
+Under & Over
+15 7
+Learning :
+82 0.000166847 0.413253
+Validating :
+82 4.82492e-06 0.0887316
+Under & Over
+15 7
+Learning :
+83 0.000163442 0.408742
+Validating :
+83 4.71006e-06 0.0875502
+Under & Over
+15 7
+Learning :
+84 0.000160144 0.404331
+Validating :
+84 4.59925e-06 0.0863984
+Under & Over
+15 7
+Learning :
+85 0.000156948 0.400017
+Validating :
+85 4.49231e-06 0.0852752
+Under & Over
+15 7
+Learning :
+86 0.00015385 0.395797
+Validating :
+86 4.38906e-06 0.0841794
+Under & Over
+15 7
+Learning :
+87 0.000150847 0.391666
+Validating :
+87 4.28933e-06 0.0831102
+Under & Over
+15 7
+Learning :
+88 0.000147933 0.387624
+Validating :
+88 4.19296e-06 0.0820665
+Under & Over
+15 7
+Learning :
+89 0.000145106 0.383666
+Validating :
+89 4.09981e-06 0.0810475
+Under & Over
+15 7
+Learning :
+90 0.000142363 0.379791
+Validating :
+90 4.00973e-06 0.0800524
+Under & Over
+15 7
+Learning :
+91 0.000139699 0.375995
+Validating :
+91 3.92258e-06 0.0790803
+Under & Over
+15 7
+Learning :
+92 0.000137112 0.372276
+Validating :
+92 3.83825e-06 0.0781305
+Under & Over
+15 7
+Learning :
+93 0.000134598 0.368632
+Validating :
+93 3.75661e-06 0.0772021
+Under & Over
+15 7
+Learning :
+94 0.000132156 0.36506
+Validating :
+94 3.67755e-06 0.0762946
+Under & Over
+15 7
+Learning :
+95 0.000129782 0.361559
+Validating :
+95 3.60096e-06 0.0754072
+Under & Over
+15 7
+Learning :
+96 0.000127473 0.358126
+Validating :
+96 3.52674e-06 0.0745393
+Under & Over
+15 7
+Learning :
+97 0.000125228 0.354759
+Validating :
+97 3.45479e-06 0.0736902
+Under & Over
+15 7
+Learning :
+98 0.000123043 0.351456
+Validating :
+98 3.38503e-06 0.0728594
+Under & Over
+15 7
+Learning :
+99 0.000120917 0.348216
+Validating :
+99 3.31736e-06 0.0720463
+Under & Over
+15 7
+Learning :
+100 0.000118848 0.345037
+Validating :
+100 3.2517e-06 0.0712503
+Under & Over
+15 7
+Learning :
+101 0.000116833 0.341917
+Validating :
+101 3.18797e-06 0.0704709
+Under & Over
+15 7
+Learning :
+102 0.00011487 0.338854
+Validating :
+102 3.12609e-06 0.0697076
+Under & Over
+15 7
+Learning :
+103 0.000112959 0.335847
+Validating :
+103 3.06601e-06 0.06896
+Under & Over
+15 7
+Learning :
+104 0.000111096 0.332894
+Validating :
+104 3.00764e-06 0.0682275
+Under & Over
+15 6
+Learning :
+105 0.000109281 0.329994
+Validating :
+105 2.95092e-06 0.0675097
+Under & Over
+15 6
+Learning :
+106 0.000107511 0.327145
+Validating :
+106 2.8958e-06 0.0668062
+Under & Over
+15 6
+Learning :
+107 0.000105785 0.324346
+Validating :
+107 2.84221e-06 0.0661165
+Under & Over
+15 6
+Learning :
+108 0.000104102 0.321596
+Validating :
+108 2.79009e-06 0.0654404
+Under & Over
+15 6
+Learning :
+109 0.000102461 0.318893
+Validating :
+109 2.73939e-06 0.0647773
+Under & Over
+15 6
+Learning :
+110 0.000100859 0.316237
+Validating :
+110 2.69007e-06 0.0641269
+Under & Over
+15 6
+Learning :
+111 9.92953e-05 0.313625
+Validating :
+111 2.64207e-06 0.0634889
+Under & Over
+15 6
